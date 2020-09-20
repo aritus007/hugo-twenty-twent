@@ -5,6 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: headings
+- type: heading
   label: Blog Post
 - type: document
   path: README.md
